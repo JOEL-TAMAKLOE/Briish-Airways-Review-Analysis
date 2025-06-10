@@ -39,9 +39,8 @@ Built a model to predict customer satisfaction based on review content.
 Presented actionable strategies to improve overall passenger experience.
 
 📂 Folder Structure
-📁 british-airways-review-analysis/
-├── notebook/           # Jupyter notebook with analysis and modeling
+├── notebook           # Jupyter notebook with analysis and modeling
 └── README.md            # Project summary and documentation
 
 📢 Acknowledgements
-This project is part of the British Airways Data Science Virtual Internship on Forage. It is a simulated experience designed to showcase how data science is used to solve real-world business problems.
+This project is part of the British Airways Data Science simulations on Forage. It is a simulated experience designed to showcase how data science is used to solve real-world business problems.
