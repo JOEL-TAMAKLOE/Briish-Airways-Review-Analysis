@@ -47,8 +47,10 @@ Presented actionable strategies to improve overall passenger experience.
 
 ## 📂 Folder Structure
 ```plaintext
-├── notebook           # Jupyter notebook with analysis and modeling
-└── README.md            # Project summary and documentation
+├── Data
+  ├── Reports         # Contains documents of findings
+  ├── Resources       # contains notebook and Excel resources 
+└── README.md         # Project summary and documentation
 ```
 
 ---
