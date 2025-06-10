@@ -1,4 +1,4 @@
-#✈️ British Airways Review Analysis – Forage Data Science Simulation
+# ✈️ British Airways Review Analysis – Forage Data Science Simulation
 This repository contains the completed project for the British Airways Data Science Virtual Experience on Forage. The simulation focused on applying data science techniques to analyze customer reviews and deliver actionable insights that drive airline success.
 
 ---
@@ -46,8 +46,10 @@ Built a model to predict customer satisfaction based on review content.
 Presented actionable strategies to improve overall passenger experience.
 
 ## 📂 Folder Structure
+```plaintext
 ├── notebook           # Jupyter notebook with analysis and modeling
 └── README.md            # Project summary and documentation
+```
 
 ---
 
